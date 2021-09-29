@@ -1,7 +1,10 @@
 {
   "java.project.sourcePaths": [
     "BOJ/2206",
+    "BOJ/1992",
     "BOJ/18223",
-    "BOJ/1068"
+    "BOJ/11581",
+    "BOJ/1068",
+    "BOJ/2210"
   ]
 }
