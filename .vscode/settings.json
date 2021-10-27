@@ -1,11 +1,14 @@
 {
   "java.project.sourcePaths": [
+    "Programmers",
+    "BOJ/2580",
+    "BOJ/2210",
     "BOJ/2206",
     "BOJ/1992",
     "BOJ/18223",
-    "BOJ/1068",
-    "Programmers",
+    "BOJ/1655",
     "BOJ/11581",
     "BOJ/1068",
-    "BOJ/2210"
+    "BOJ/16956"
+  ]
 }
