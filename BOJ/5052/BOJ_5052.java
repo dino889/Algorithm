@@ -36,7 +36,7 @@ public interface BOJ_5052 {
         if(node.endOfword == true)  return true;
       }
 
-      // if(node.chiledNode.size() != 0) return true;
+      if(node.chiledNode.size() != 0) return true;
       
       node.endOfword = true;  // 저장할 문자열의 마지막 단어에 매핑되는 노드에 단어의 끝임을 명시
       return false;
